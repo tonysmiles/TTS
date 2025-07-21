@@ -1,3 +1,3 @@
 Server VN1:https://huggingface.co/spaces/vietapk/ttsvn
 Server VN2:https://huggingface.co/spaces/thinhlpg/vixtts-demo
-Server Nước ngoài:https://huggingface.co/spaces/mrfakename/E2-F5-TTS
+Server Nước Ngoài:https://huggingface.co/spaces/mrfakename/E2-F5-TTS
